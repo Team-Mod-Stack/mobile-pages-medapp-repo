@@ -1,0 +1,539 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle37 {
+  position: absolute;
+  left: 30px;
+  top: 325px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle372 {
+  position: absolute;
+  left: 30px;
+  top: 434px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle373 {
+  position: absolute;
+  left: 30px;
+  top: 481px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle374 {
+  position: absolute;
+  left: 30px;
+  top: 528px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle375 {
+  position: absolute;
+  left: 30px;
+  top: 575px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle376 {
+  position: absolute;
+  left: 30px;
+  top: 622px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle377 {
+  position: absolute;
+  left: 30px;
+  top: 669px;
+  width: 299px;
+  height: 33px;
+  border-radius: 50px;
+  background-color: #ecf1ff;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #ecf1ff;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle118 {
+  position: absolute;
+  left: 0;
+  top: 28px;
+  width: 360px;
+  height: 168px;
+  background-color: #2260ff;
+}
+.rectangle94 {
+  position: absolute;
+  left: 184px;
+  top: 210px;
+  width: 146px;
+  height: 41px;
+  border-radius: 20px;
+  background-color: #cad6ff;
+}
+.rectangle120 {
+  position: absolute;
+  left: 30px;
+  top: 271px;
+  width: 95px;
+  height: 26px;
+  border-radius: 20px;
+  background-color: #2260ff;
+}
+.rectangle121 {
+  position: absolute;
+  left: 133px;
+  top: 271px;
+  width: 94px;
+  height: 26px;
+  border-radius: 20px;
+  background-color: #cad6ff;
+}
+.rectangle122 {
+  position: absolute;
+  left: 235px;
+  top: 271px;
+  width: 95px;
+  height: 26px;
+  border-radius: 20px;
+  background-color: #cad6ff;
+}
+.rectangle97 {
+  position: absolute;
+  left: 30px;
+  top: 210px;
+  width: 143px;
+  height: 41px;
+  border-radius: 20px;
+  background-color: #2260ff;
+}
+.rectangle119 {
+  position: absolute;
+  left: 30px;
+  top: 138px;
+  width: 300px;
+  height: 38px;
+  border-radius: 50px;
+  background-color: #fff;
+}
+.contactUs {
+  color: #2260ff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 203px;
+  top: 222px;
+  width: 108px;
+  height: 18px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.fAQ {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 59px;
+  top: 222px;
+  width: 86px;
+  height: 18px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.helpCenter {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 50%;
+  top: 60px;
+  width: 156px;
+  height: 23px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.howCanWeHelpYou {
+  color: #cad6ff;
+  font-size: 16px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 50%;
+  top: 105px;
+  width: 156px;
+  height: 23px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.search {
+  color: #cad6ff;
+  font-size: 16px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: calc(50% - 75.5px);
+  top: 150px;
+  width: 67px;
+  height: 16px;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 63px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 44px;
+  top: 148px;
+  width: 15px;
+  height: 18px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.loremIpsumDolorSitAmet {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 335px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.popularTopic {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 38px;
+  top: 278px;
+  width: 79px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.general {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 151px;
+  top: 278px;
+  width: 58px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.services {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 254px;
+  top: 278px;
+  width: 58px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmet2 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 444px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmet3 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 491px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmet4 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 538px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmet5 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 585px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmet6 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 632px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmet7 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 44px;
+  top: 679px;
+  width: 257px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte {
+  color: #000;
+  font-size: 13px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 52px;
+  top: 354px;
+  width: 270px;
+  height: 75px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector5 {
+  position: absolute;
+  left: 309.001px;
+  top: 338.9999px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector6 {
+  position: absolute;
+  left: 309.001px;
+  top: 447.9999px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector7 {
+  position: absolute;
+  left: 309.001px;
+  top: 494.9999px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.vector8 {
+  position: absolute;
+  left: 309.001px;
+  top: 542.0002px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector9 {
+  position: absolute;
+  left: 309.001px;
+  top: 589.0002px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.vector10 {
+  position: absolute;
+  left: 309.001px;
+  top: 636.0002px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.vector11 {
+  position: absolute;
+  left: 309.001px;
+  top: 683.0002px;
+  width: 12px;
+  height: 8px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,1364 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle36 {
+  position: absolute;
+  left: 30px;
+  top: 90px;
+  width: 300px;
+  height: 254px;
+  border-radius: 17px;
+  background-color: #cad6ff;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #ecf1ff;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle33 {
+  position: absolute;
+  left: 31px;
+  top: 733px;
+  width: 298px;
+  height: 48px;
+  border-radius: 24px;
+  background-color: #2260ff;
+}
+.profile {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 373px;
+  width: 282px;
+  height: 15px;
+  flex-direction: column;
+}
+.rectangle37 {
+  position: absolute;
+  left: 52px;
+  top: 263px;
+  width: 257px;
+  height: 39px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.drOliviaTurnerMD {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 108px;
+  top: 270px;
+  width: 145px;
+  height: 15px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.dermatoEndocrinology {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 284px;
+  width: 148px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37px;
+  top: 390px;
+  width: 285px;
+  height: 50px;
+  flex-direction: column;
+}
+.djvstock_Create_a_professional {
+  position: absolute;
+  left: -4.4753px;
+  top: 52.696px;
+  width: 251.5082px;
+  height: 251.3449px;
+  border-radius: 16px;
+  background-image:/* webpackIgnore: true */ url('/assets/djvstock_Create_a_professional.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 56.4753303527832px 58.30397415161133px;
+  mask-position: 56.4753303527832px 58.30397415161133px;
+  -webkit-mask-size: 139.24705505371094px 140px;
+  mask-size: 139.24705505371094px 140px;
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 63px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle78 {
+  position: absolute;
+  left: 307px;
+  top: 59px;
+  width: 21px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle79 {
+  position: absolute;
+  left: 284px;
+  top: 59px;
+  width: 21px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle80 {
+  position: absolute;
+  left: 52px;
+  top: 59px;
+  width: 82px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #2260ff;
+}
+.vector158Stroke {
+  position: absolute;
+  left: 312px;
+  top: 65px;
+  width: 11px;
+  height: 10px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 292px;
+  top: 65px;
+  width: 5px;
+  height: 9px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle53 {
+  position: absolute;
+  left: 56px;
+  top: 314px;
+  width: 43px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle75 {
+  position: absolute;
+  left: 152px;
+  top: 314px;
+  width: 153px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle54 {
+  position: absolute;
+  left: 105px;
+  top: 314px;
+  width: 41px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._45 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 76px;
+  top: 319px;
+  width: 20px;
+  height: 12px;
+  flex-direction: column;
+}
+.monSat9AM4PM {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 175px;
+  top: 319px;
+  width: 128px;
+  height: 12px;
+  flex-direction: column;
+}
+._30 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 124px;
+  top: 319px;
+  width: 21px;
+  height: 12px;
+  flex-direction: column;
+}
+.group43 {
+  position: absolute;
+  left: 157px;
+  top: 318px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.group14 {
+  position: absolute;
+  left: 110px;
+  top: 318px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.group18 {
+  position: absolute;
+  left: 61px;
+  top: 318px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle532 {
+  position: absolute;
+  left: 56px;
+  top: 313px;
+  width: 43px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle752 {
+  position: absolute;
+  left: 152px;
+  top: 313px;
+  width: 153px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle542 {
+  position: absolute;
+  left: 105px;
+  top: 313px;
+  width: 41px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._452 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 76px;
+  top: 318px;
+  width: 20px;
+  height: 12px;
+  flex-direction: column;
+}
+.monSat9AM4PM2 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 175px;
+  top: 318px;
+  width: 128px;
+  height: 12px;
+  flex-direction: column;
+}
+._302 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 124px;
+  top: 318px;
+  width: 21px;
+  height: 12px;
+  flex-direction: column;
+}
+.group432 {
+  position: absolute;
+  left: 157px;
+  top: 317px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.group142 {
+  position: absolute;
+  left: 110px;
+  top: 317px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.group182 {
+  position: absolute;
+  left: 61px;
+  top: 317px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: 61px;
+  top: 64px;
+  width: 10px;
+  height: 11px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.schedule {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 78px;
+  top: 65px;
+  width: 47px;
+  height: 12px;
+  flex-direction: column;
+}
+.group49 {
+  position: absolute;
+  left: 58px;
+  top: 746px;
+  width: 243px;
+  height: 23px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.group50 {
+  position: absolute;
+  left: 160px;
+  top: 59px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.group51 {
+  position: absolute;
+  left: 136px;
+  top: 59px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.group52 {
+  position: absolute;
+  left: 184px;
+  top: 59px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle70 {
+  position: absolute;
+  left: 0;
+  top: 457px;
+  width: 360px;
+  height: 260px;
+  background-color: #cad6ff;
+}
+.rectangle13 {
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: 536px;
+  width: 299px;
+  height: 165px;
+  border-radius: 20px;
+  background-color: #fff;
+  transform: translateX(-50%);
+}
+._29 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 53px;
+  top: 678px;
+  width: 17px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._303 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 92px;
+  top: 678px;
+  width: 17px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._31 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 131px;
+  top: 678px;
+  width: 17px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle81 {
+  position: absolute;
+  left: 129px;
+  top: 642.0001px;
+  width: 21px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #2260ff;
+}
+._1 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 52.5122px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._8 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 52.5122px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._15 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 52.5122px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._22 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 52.5122px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._2 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 91.5854px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._9 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 91.5854px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._16 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 91.5854px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._23 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 91.5854px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._3 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 130.6586px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._10 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 130.6586px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._17 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 130.6586px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._24 {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 130.6586px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._4 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 169.7317px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._11 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 169.7317px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._18 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 169.7317px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._25 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 169.7317px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._5 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 208.8049px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._12 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 208.8049px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._19 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 208.8049px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._26 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 208.8049px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._7 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 286.9512px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._14 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 286.9512px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._21 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 286.9512px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._28 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 286.9512px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._6 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 247.8781px;
+  top: 551.7979px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._13 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 247.8781px;
+  top: 583.4286px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._20 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 247.8781px;
+  top: 615.0592px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._27 {
+  color: #a9bcfe;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 247.8781px;
+  top: 646.6899px;
+  width: 17.676px;
+  height: 12.0941px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle18 {
+  position: absolute;
+  left: 46px;
+  top: 507px;
+  width: 32px;
+  height: 17px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle17 {
+  position: absolute;
+  left: 85px;
+  top: 507px;
+  width: 32px;
+  height: 17px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle16 {
+  position: absolute;
+  left: 125px;
+  top: 507px;
+  width: 31px;
+  height: 17px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle15 {
+  position: absolute;
+  left: 162px;
+  top: 507px;
+  width: 33px;
+  height: 17px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle14 {
+  position: absolute;
+  left: 202px;
+  top: 507px;
+  width: 32px;
+  height: 17px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle362 {
+  position: absolute;
+  left: 242px;
+  top: 507px;
+  width: 32px;
+  height: 17px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle71 {
+  position: absolute;
+  left: 281px;
+  top: 507px;
+  width: 32px;
+  height: 17px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.mon {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 50px;
+  top: 511px;
+  width: 26px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.tue {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 89px;
+  top: 511px;
+  width: 25px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.wed {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 126px;
+  top: 511px;
+  width: 28px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.thu {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 166px;
+  top: 511px;
+  width: 25px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.sat {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 241px;
+  top: 511px;
+  width: 31px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.fri {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 206px;
+  top: 511px;
+  width: 23px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.sUN {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 282px;
+  top: 511px;
+  width: 28px;
+  height: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.group40 {
+  position: absolute;
+  left: 138px;
+  top: 478.8824px;
+  width: 80px;
+  height: 8.2353px;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.month {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 157px;
+  top: 478px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle162 {
+  position: absolute;
+  left: 201px;
+  top: 111px;
+  width: 108px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+._20Years {
+  color: #fff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 232px;
+  top: 116px;
+  width: 62px;
+  height: 12px;
+  flex-direction: column;
+}
+.experience {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 232px;
+  top: 125px;
+  width: 59px;
+  height: 10px;
+  flex-direction: column;
+}
+.rectangle82 {
+  position: absolute;
+  left: 201px;
+  top: 141px;
+  width: 108px;
+  height: 108px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.focusTheImpactOfHormonalImbala {
+  position: absolute;
+  left: 213px;
+  top: 151px;
+  width: 87px;
+  height: 83px;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.group55 {
+  position: absolute;
+  left: 205px;
+  top: 114px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}

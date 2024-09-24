@@ -1,0 +1,373 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle40 {
+  position: absolute;
+  left: 30px;
+  top: 388px;
+  width: 300px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #ecf1ff;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.paymentMethod {
+  color: #2260ff;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 50%;
+  top: 60px;
+  width: 226px;
+  height: 23px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 63px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.creditDebitCard {
+  position: absolute;
+  left: 31px;
+  top: 126px;
+  width: 180px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+}
+.morePaymentOption {
+  color: #000;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 31px;
+  top: 249px;
+  width: 180px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.ellipse35 {
+  position: absolute;
+  left: 49px;
+  top: 401px;
+  width: 18px;
+  height: 18px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle37 {
+  position: absolute;
+  left: 30px;
+  top: 161px;
+  width: 300px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.rectangle41 {
+  position: absolute;
+  left: 30px;
+  top: 284px;
+  width: 300px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.rectangle39 {
+  position: absolute;
+  left: 30px;
+  top: 336px;
+  width: 300px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.vector4 {
+  position: absolute;
+  left: 46px;
+  top: 174px;
+  width: 24px;
+  height: 18px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: calc(50% - 122.5px);
+  top: calc(50% - 42px);
+  width: 15px;
+  height: 22px;
+  overflow: visible;
+  transform: translate(-50%, -50%);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector6 {
+  position: absolute;
+  left: 48px;
+  top: 293px;
+  width: 19.9314px;
+  height: 24px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.applePlay {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 82px;
+  top: 299px;
+  width: 104px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.addNewCard {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 82px;
+  top: 177px;
+  width: 141px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.paypal {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 82px;
+  top: 354px;
+  width: 104px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.googlePlay {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 82px;
+  top: 405px;
+  width: 104px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.ellipse18 {
+  position: absolute;
+  left: 296px;
+  top: 298px;
+  width: 20px;
+  height: 20px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse36 {
+  position: absolute;
+  left: 296px;
+  top: 348px;
+  width: 20px;
+  height: 20px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse38 {
+  position: absolute;
+  left: 296px;
+  top: 398px;
+  width: 20px;
+  height: 20px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse20 {
+  position: absolute;
+  left: 296px;
+  top: 172px;
+  width: 20px;
+  height: 20px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse19 {
+  position: absolute;
+  left: 300px;
+  top: 302px;
+  width: 12px;
+  height: 12px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse37 {
+  position: absolute;
+  left: 300px;
+  top: 352px;
+  width: 12px;
+  height: 12px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse39 {
+  position: absolute;
+  left: 300px;
+  top: 402px;
+  width: 12px;
+  height: 12px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse21 {
+  position: absolute;
+  left: 300px;
+  top: 176px;
+  width: 12px;
+  height: 12px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}

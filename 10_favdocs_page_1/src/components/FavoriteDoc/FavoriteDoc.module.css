@@ -1,0 +1,1112 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #e2eaffa8;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle33 {
+  position: absolute;
+  left: 31px;
+  top: 733px;
+  width: 298px;
+  height: 48px;
+  border-radius: 24px;
+  background-color: #2260ff;
+}
+.group49 {
+  position: absolute;
+  left: 58px;
+  top: 746px;
+  width: 243px;
+  height: 23px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rating {
+  color: #2260ff;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 122px;
+  top: 63px;
+  width: 121px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 63px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle32 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - 215px);
+  width: 300px;
+  height: 106px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+  transform: translate(-50%, -50%);
+}
+.group144 {
+  position: absolute;
+  left: 232px;
+  top: 211px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.group147 {
+  position: absolute;
+  left: 300px;
+  top: 211px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.group146 {
+  position: absolute;
+  left: 277px;
+  top: 211px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.group145 {
+  position: absolute;
+  left: 255px;
+  top: 211px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 265px;
+  top: 217px;
+  width: 0px;
+  max-width: 100%;
+  height: 0.5px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle109 {
+  position: absolute;
+  left: 112px;
+  top: 210px;
+  width: 46px;
+  height: 22px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.info {
+  color: #fff;
+  font-size: 15px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 119px;
+  top: 216px;
+  width: 32px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle98 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - 92px);
+  width: 300px;
+  height: 106px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+  transform: translate(-50%, -50%);
+}
+.group1442 {
+  position: absolute;
+  left: 232px;
+  top: 335px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.group1472 {
+  position: absolute;
+  left: 300px;
+  top: 335px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.group1462 {
+  position: absolute;
+  left: 277px;
+  top: 335px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.group1452 {
+  position: absolute;
+  left: 255px;
+  top: 335px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: 265px;
+  top: 341px;
+  width: 0px;
+  max-width: 100%;
+  height: 0.5px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1092 {
+  position: absolute;
+  left: 112px;
+  top: 334px;
+  width: 46px;
+  height: 22px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.info2 {
+  color: #fff;
+  font-size: 15px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 119px;
+  top: 340px;
+  width: 32px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle53 {
+  position: absolute;
+  left: 278px;
+  top: 263px;
+  width: 43px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._5 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 298px;
+  top: 268px;
+  width: 20px;
+  height: 12px;
+  flex-direction: column;
+}
+.star1 {
+  position: absolute;
+  left: 283px;
+  top: 267px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle99 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - -32px);
+  width: 300px;
+  height: 106px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+  transform: translate(-50%, -50%);
+}
+.group1443 {
+  position: absolute;
+  left: 232px;
+  top: 458px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.group1473 {
+  position: absolute;
+  left: 300px;
+  top: 458px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.group1463 {
+  position: absolute;
+  left: 277px;
+  top: 458px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.group1453 {
+  position: absolute;
+  left: 255px;
+  top: 458px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.vector6 {
+  position: absolute;
+  left: 265px;
+  top: 464px;
+  width: 0px;
+  max-width: 100%;
+  height: 0.5px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1093 {
+  position: absolute;
+  left: 112px;
+  top: 457px;
+  width: 46px;
+  height: 22px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.info3 {
+  color: #fff;
+  font-size: 15px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 119px;
+  top: 463px;
+  width: 32px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle532 {
+  position: absolute;
+  left: 278px;
+  top: 386px;
+  width: 43px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._49 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 298px;
+  top: 391px;
+  width: 20px;
+  height: 12px;
+  flex-direction: column;
+}
+.star12 {
+  position: absolute;
+  left: 283px;
+  top: 390px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon22 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle100 {
+  position: absolute;
+  left: 50%;
+  top: calc(50% - -156px);
+  width: 300px;
+  height: 106px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+  transform: translate(-50%, -50%);
+}
+.group1444 {
+  position: absolute;
+  left: 232px;
+  top: 580px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon23 {
+  width: 100%;
+  height: 100%;
+}
+.group1474 {
+  position: absolute;
+  left: 300px;
+  top: 580px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon24 {
+  width: 100%;
+  height: 100%;
+}
+.group1464 {
+  position: absolute;
+  left: 277px;
+  top: 580px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon25 {
+  width: 100%;
+  height: 100%;
+}
+.group1454 {
+  position: absolute;
+  left: 255px;
+  top: 580px;
+  width: 21px;
+  height: 21px;
+  overflow: visible;
+}
+.icon26 {
+  width: 100%;
+  height: 100%;
+}
+.vector7 {
+  position: absolute;
+  left: 265px;
+  top: 586px;
+  width: 0px;
+  max-width: 100%;
+  height: 0.5px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon27 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1094 {
+  position: absolute;
+  left: 112px;
+  top: 579px;
+  width: 46px;
+  height: 22px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.info4 {
+  color: #fff;
+  font-size: 15px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 119px;
+  top: 585px;
+  width: 32px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle533 {
+  position: absolute;
+  left: 278px;
+  top: 508px;
+  width: 43px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._48 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 298px;
+  top: 513px;
+  width: 20px;
+  height: 12px;
+  flex-direction: column;
+}
+.star13 {
+  position: absolute;
+  left: 283px;
+  top: 512px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon28 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle37 {
+  position: absolute;
+  left: 110px;
+  top: 161px;
+  width: 211px;
+  height: 43px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.drOliviaTurnerMD {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 124px;
+  top: 170px;
+  width: 180px;
+  height: 15px;
+  flex-direction: column;
+}
+.dermatoEndocrinology {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 124px;
+  top: 187px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.professionalDoctor {
+  color: #2260ff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 145px;
+  width: 99px;
+  height: 12px;
+  flex-direction: column;
+}
+.group55 {
+  position: absolute;
+  left: 115px;
+  top: 140.7554px;
+  width: 17.4451px;
+  height: 17.4451px;
+  overflow: visible;
+}
+.icon29 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional {
+  position: absolute;
+  left: 9.3442px;
+  top: 122.681px;
+  width: 123.1623px;
+  height: 122.0818px;
+  border-radius: 56px;
+  background-image:/* webpackIgnore: true */ url('assets/djvstock_Create_a_professional.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 27.65576171875px 28.319028854370117px;
+  mask-position: 27.65576171875px 28.319028854370117px;
+  -webkit-mask-size: 68.18859100341797px 68px;
+  mask-size: 68.18859100341797px 68px;
+}
+.rectangle40 {
+  position: absolute;
+  left: 110px;
+  top: 284px;
+  width: 211px;
+  height: 43px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.professionalDoctor2 {
+  color: #2260ff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 268px;
+  width: 99px;
+  height: 12px;
+  flex-direction: column;
+}
+.group83 {
+  position: absolute;
+  left: 115px;
+  top: 263.7554px;
+  width: 17.4451px;
+  height: 17.4451px;
+  overflow: visible;
+}
+.icon30 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional2 {
+  position: absolute;
+  left: 17.5595px;
+  top: 250.0582px;
+  width: 106.5441px;
+  height: 107.1202px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/djvstock_Create_a_professional2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 19.440458297729492px 23.941818237304688px;
+  mask-position: 19.440458297729492px 23.941818237304688px;
+  -webkit-mask-size: 68px 68.36769104003906px;
+  mask-size: 68px 68.36769104003906px;
+}
+.djvstock_Create_a_professional3 {
+  position: absolute;
+  left: 25.433px;
+  top: 257.7891px;
+  width: 84.1237px;
+  height: 84.5786px;
+  border-radius: 100px;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 11.56698226928711px 16.21091079711914px;
+  mask-position: 11.56698226928711px 16.21091079711914px;
+  -webkit-mask-size: 68px 68.36769104003906px;
+  mask-size: 68px 68.36769104003906px;
+}
+.rectangle43 {
+  position: absolute;
+  left: 110px;
+  top: 407px;
+  width: 211px;
+  height: 43px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.professionalDoctor3 {
+  color: #2260ff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 391px;
+  width: 99px;
+  height: 12px;
+  flex-direction: column;
+}
+.group84 {
+  position: absolute;
+  left: 115px;
+  top: 386.7554px;
+  width: 17.4451px;
+  height: 17.4451px;
+  overflow: visible;
+}
+.icon31 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional4 {
+  position: absolute;
+  left: 19.0393px;
+  top: 376.8447px;
+  width: 105.8042px;
+  height: 105.6324px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/djvstock_Create_a_professional3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 17.960668563842773px 20.155296325683594px;
+  mask-position: 17.960668563842773px 20.155296325683594px;
+  -webkit-mask-size: 68px 68.36769104003906px;
+  mask-size: 68px 68.36769104003906px;
+}
+.rectangle46 {
+  position: absolute;
+  left: 110px;
+  top: 530px;
+  width: 211px;
+  height: 43px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.drMichaelDavidsonMD {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 124px;
+  top: 539px;
+  width: 180px;
+  height: 15px;
+  flex-direction: column;
+}
+.solarDermatology {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 124px;
+  top: 556px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.professionalDoctor4 {
+  color: #2260ff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 135px;
+  top: 514px;
+  width: 99px;
+  height: 12px;
+  flex-direction: column;
+}
+.group85 {
+  position: absolute;
+  left: 115px;
+  top: 509.7554px;
+  width: 17.4451px;
+  height: 17.4451px;
+  overflow: visible;
+}
+.icon32 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional5 {
+  position: absolute;
+  left: 30.3403px;
+  top: 508.7835px;
+  width: 80.9691px;
+  height: 80.9691px;
+  border-radius: 333px;
+  background-image:/* webpackIgnore: true */ url('assets/djvstock_Create_a_professional4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup4.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup4.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 6.659681797027588px 11.21651840209961px;
+  mask-position: 6.659681797027588px 11.21651840209961px;
+  -webkit-mask-size: 68px 68px;
+  mask-size: 68px 68px;
+}
+.drAlexanderBennettPhD {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 292px;
+  width: 183px;
+  height: 13px;
+  flex-direction: column;
+}
+.dermatoGenetics {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 309px;
+  width: 148px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.drSophiaMartinezPhD {
+  color: #2260ff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 418px;
+  width: 183px;
+  height: 13px;
+  flex-direction: column;
+}
+.cosmeticBioengineering {
+  color: #000;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 433px;
+  width: 148px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.sortBy {
+  color: #070707;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 38px;
+  top: 103px;
+  width: 38px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle80 {
+  position: absolute;
+  left: 77px;
+  top: 98px;
+  width: 47px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle116 {
+  position: absolute;
+  left: 127px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #2260ff;
+}
+.rectangle117 {
+  position: absolute;
+  left: 152px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle118 {
+  position: absolute;
+  left: 177px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle119 {
+  position: absolute;
+  left: 202px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.aZ {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 86px;
+  top: 103px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector158Stroke {
+  position: absolute;
+  left: 158px;
+  top: 105px;
+  width: 10px;
+  height: 9px;
+  overflow: visible;
+}
+.icon33 {
+  width: 100%;
+  height: 100%;
+}
+.group18 {
+  position: absolute;
+  left: 133px;
+  top: 104px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon34 {
+  width: 100%;
+  height: 100%;
+}
+.group139 {
+  position: absolute;
+  left: 185px;
+  top: 103.625px;
+  width: 6px;
+  height: 9.75px;
+  overflow: visible;
+}
+.icon35 {
+  width: 100%;
+  height: 100%;
+}
+.group140 {
+  position: absolute;
+  left: 208px;
+  top: 102px;
+  width: 9.9963px;
+  height: 11.3587px;
+  overflow: visible;
+}
+.icon36 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle534 {
+  position: absolute;
+  left: 278px;
+  top: 139px;
+  width: 43px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._52 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 298px;
+  top: 144px;
+  width: 20px;
+  height: 12px;
+  flex-direction: column;
+}
+.star14 {
+  position: absolute;
+  left: 283px;
+  top: 143px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon37 {
+  width: 100%;
+  height: 100%;
+}
+.group170 {
+  position: absolute;
+  left: 282px;
+  top: 59px;
+  width: 47.2776px;
+  height: 21.2776px;
+  overflow: visible;
+}
+.icon38 {
+  width: 100%;
+  height: 100%;
+}

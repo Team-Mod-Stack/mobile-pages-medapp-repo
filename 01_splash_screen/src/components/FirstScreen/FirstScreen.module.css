@@ -1,0 +1,116 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #2260ff;
+  overflow: hidden;
+}
+.dermatologyCenter {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 114px;
+  top: 549px;
+  width: 142px;
+  height: 8px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.skin {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 100;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 114px;
+  top: 458px;
+  width: 142px;
+  height: 36px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.firts {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 100;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 114px;
+  top: 496px;
+  width: 142px;
+  height: 36px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle116 {
+  position: absolute;
+  left: 163px;
+  top: 309px;
+  width: 45px;
+  height: 130px;
+  border-radius: 21px;
+  background-color: #fff;
+}
+.rectangle117 {
+  transform-origin: top left;
+  position: absolute;
+  left: 250px;
+  top: 352px;
+  width: 44px;
+  height: 130px;
+  border-radius: 21px;
+  background-color: #fff;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.vector {
+  position: absolute;
+  left: 43.6111%;
+  right: 40.7618%;
+  top: 43.375%;
+  bottom: 49.6052%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.group89 {
+  position: absolute;
+  left: 161px;
+  top: 311.9999px;
+  width: 60.4213px;
+  height: 61.3378px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group90 {
+  position: absolute;
+  left: 121px;
+  top: 344px;
+  width: 67.5683px;
+  height: 64.4979px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}

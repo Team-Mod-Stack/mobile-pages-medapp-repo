@@ -1,0 +1,938 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #ecf1ff;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.allAppointment {
+  color: #2260ff;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 50%;
+  top: 65px;
+  width: 184px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 65px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle83 {
+  position: absolute;
+  left: 30px;
+  top: 180px;
+  width: 300px;
+  height: 151px;
+  border-radius: 17px;
+  background-color: #cad6ff;
+}
+.drOliviaTurnerMD {
+  color: #2260ff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 213px;
+  width: 170px;
+  height: 13px;
+  flex-direction: column;
+}
+.dermatoEndocrinology {
+  color: #000;
+  font-size: 14px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 232px;
+  width: 148px;
+  height: 12px;
+  flex-direction: column;
+}
+.djvstock_Create_a_professional {
+  position: absolute;
+  left: 27.1958px;
+  top: 166.3603px;
+  width: 114.9169px;
+  height: 114.8423px;
+  border-radius: 16px;
+  background-image:/* webpackIgnore: true */ url('/assets/djvstock_Create_a_professional.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 25.804210662841797px 26.639739990234375px;
+  mask-position: 25.804210662841797px 26.639739990234375px;
+  -webkit-mask-size: 63.62352752685547px 63.96755599975586px;
+  mask-size: 63.62352752685547px 63.96755599975586px;
+}
+.rectangle75 {
+  position: absolute;
+  left: 172px;
+  top: 265px;
+  width: 129px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle85 {
+  position: absolute;
+  left: 53px;
+  top: 265px;
+  width: 112px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._930AM100AM {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194px;
+  top: 269px;
+  width: 102px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.sunday12June {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 269px;
+  width: 83px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group43 {
+  position: absolute;
+  left: 177px;
+  top: 269px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle84 {
+  position: absolute;
+  left: 53px;
+  top: 292px;
+  width: 174px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.vector4 {
+  position: absolute;
+  left: 63px;
+  top: 269px;
+  width: 9px;
+  height: 10px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.details {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 110px;
+  top: 300px;
+  width: 60px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group47 {
+  position: absolute;
+  left: 239px;
+  top: 292px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.group10 {
+  position: absolute;
+  left: 274.9767px;
+  top: 292px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle86 {
+  position: absolute;
+  left: 30px;
+  top: 349px;
+  width: 300px;
+  height: 151px;
+  border-radius: 17px;
+  background-color: #cad6ff;
+}
+.drAlexanderBennettPhD {
+  color: #2260ff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 382px;
+  width: 183px;
+  height: 13px;
+  flex-direction: column;
+}
+.dermatoGenetics {
+  color: #000;
+  font-size: 13px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 401px;
+  width: 148px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle87 {
+  position: absolute;
+  left: 172px;
+  top: 434px;
+  width: 129px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle88 {
+  position: absolute;
+  left: 53px;
+  top: 434px;
+  width: 112px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._230PM30PM {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194px;
+  top: 438px;
+  width: 102px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.friday20June {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 438px;
+  width: 83px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group50 {
+  position: absolute;
+  left: 177px;
+  top: 438px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle89 {
+  position: absolute;
+  left: 53px;
+  top: 461px;
+  width: 174px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.vector5 {
+  position: absolute;
+  left: 63px;
+  top: 438px;
+  width: 9px;
+  height: 10px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.details2 {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 110px;
+  top: 469px;
+  width: 60px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group51 {
+  position: absolute;
+  left: 239px;
+  top: 461px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.group52 {
+  position: absolute;
+  left: 274.9767px;
+  top: 461px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional2 {
+  position: absolute;
+  left: 33.9163px;
+  top: 337.4975px;
+  width: 104.5891px;
+  height: 105.1546px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('/assets/djvstock_Create_a_professional2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 19.08367919921875px 23.50247573852539px;
+  mask-position: 19.08367919921875px 23.50247573852539px;
+  -webkit-mask-size: 66.75225067138672px 67.11319732666016px;
+  mask-size: 66.75225067138672px 67.11319732666016px;
+}
+.djvstock_Create_a_professional3 {
+  position: absolute;
+  left: 41.6453px;
+  top: 345.0866px;
+  width: 82.5801px;
+  height: 83.0266px;
+  border-radius: 100px;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 11.354731559753418px 15.913435935974121px;
+  mask-position: 11.354731559753418px 15.913435935974121px;
+  -webkit-mask-size: 66.75225067138672px 67.11319732666016px;
+  mask-size: 66.75225067138672px 67.11319732666016px;
+}
+.rectangle98 {
+  position: absolute;
+  left: 30px;
+  top: 687px;
+  width: 300px;
+  height: 151px;
+  border-radius: 17px;
+  background-color: #cad6ff;
+}
+.drAlexanderBennettPhD2 {
+  color: #2260ff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 720px;
+  width: 183px;
+  height: 13px;
+  flex-direction: column;
+}
+.dermatoGenetics2 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 739px;
+  width: 148px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle99 {
+  position: absolute;
+  left: 172px;
+  top: 772px;
+  width: 129px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle100 {
+  position: absolute;
+  left: 53px;
+  top: 772px;
+  width: 112px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._230PM30PM2 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194px;
+  top: 776px;
+  width: 102px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.friday20June2 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 776px;
+  width: 83px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group56 {
+  position: absolute;
+  left: 177px;
+  top: 776px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle101 {
+  position: absolute;
+  left: 53px;
+  top: 799px;
+  width: 174px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.vector6 {
+  position: absolute;
+  left: 63px;
+  top: 776px;
+  width: 9px;
+  height: 10px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.details3 {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 110px;
+  top: 781px;
+  width: 60px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group57 {
+  position: absolute;
+  left: 239px;
+  top: 799px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.group58 {
+  position: absolute;
+  left: 274.9767px;
+  top: 799px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional4 {
+  position: absolute;
+  left: 33.9163px;
+  top: 675.4975px;
+  width: 104.5891px;
+  height: 105.1546px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('/assets/djvstock_Create_a_professional3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup3.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup3.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 19.08367919921875px 23.50247573852539px;
+  mask-position: 19.08367919921875px 23.50247573852539px;
+  -webkit-mask-size: 66.75225067138672px 67.11319732666016px;
+  mask-size: 66.75225067138672px 67.11319732666016px;
+}
+.djvstock_Create_a_professional5 {
+  position: absolute;
+  left: 41.6453px;
+  top: 683.0866px;
+  width: 82.5801px;
+  height: 83.0266px;
+  border-radius: 100px;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup3.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup3.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 11.354731559753418px 15.913435935974121px;
+  mask-position: 11.354731559753418px 15.913435935974121px;
+  -webkit-mask-size: 66.75225067138672px 67.11319732666016px;
+  mask-size: 66.75225067138672px 67.11319732666016px;
+}
+.rectangle90 {
+  position: absolute;
+  left: 30px;
+  top: 518px;
+  width: 300px;
+  height: 151px;
+  border-radius: 17px;
+  background-color: #cad6ff;
+}
+.drSophiaMartinezPhD {
+  color: #2260ff;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 551px;
+  width: 183px;
+  height: 13px;
+  flex-direction: column;
+}
+.cosmeticBioengineering {
+  color: #000;
+  font-size: 13px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 570px;
+  width: 148px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle91 {
+  position: absolute;
+  left: 172px;
+  top: 603px;
+  width: 129px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+.rectangle92 {
+  position: absolute;
+  left: 53px;
+  top: 603px;
+  width: 112px;
+  height: 18px;
+  border-radius: 13px;
+  background-color: #fff;
+}
+._930AM100AM2 {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 194px;
+  top: 607px;
+  width: 102px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.tuesday15June {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 79px;
+  top: 607px;
+  width: 83px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group53 {
+  position: absolute;
+  left: 177px;
+  top: 607px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle93 {
+  position: absolute;
+  left: 53px;
+  top: 630px;
+  width: 174px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.vector7 {
+  position: absolute;
+  left: 63px;
+  top: 607px;
+  width: 9px;
+  height: 10px;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.details4 {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 110px;
+  top: 638px;
+  width: 60px;
+  height: 12px;
+  justify-content: center;
+  flex-direction: column;
+}
+.group54 {
+  position: absolute;
+  left: 239px;
+  top: 630px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.group55 {
+  position: absolute;
+  left: 274.9767px;
+  top: 630px;
+  width: 26.2203px;
+  height: 26.2203px;
+  overflow: visible;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.djvstock_Create_a_professional6 {
+  position: absolute;
+  left: 35.3689px;
+  top: 510.2146px;
+  width: 103.8628px;
+  height: 103.6942px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('/assets/djvstock_Create_a_professional4.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('/assets/maskGroup4.svg');
+  mask-image:/* webpackIgnore: true */ url('/assets/maskGroup4.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 17.631078720092773px 19.785436630249023px;
+  mask-position: 17.631078720092773px 19.785436630249023px;
+  -webkit-mask-size: 66.75225067138672px 67.11319732666016px;
+  mask-size: 66.75225067138672px 67.11319732666016px;
+}
+.rectangle94 {
+  position: absolute;
+  left: 133px;
+  top: 116px;
+  width: 96px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle97 {
+  position: absolute;
+  left: 30px;
+  top: 116px;
+  width: 94px;
+  height: 27px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+}
+.rectangle95 {
+  position: absolute;
+  left: 236px;
+  top: 116px;
+  width: 94px;
+  height: 27px;
+  outline: solid 1px #2260ff;
+  outline-offset: -1px;
+  border-radius: 18px;
+  background-color: #2260ff;
+}
+.rectangle96 {
+  position: absolute;
+  left: 236px;
+  top: 116px;
+  width: 94px;
+  height: 27px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+}
+.upcoming {
+  color: #fff;
+  font-size: 16px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 135px;
+  top: 124px;
+  width: 92px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.complete {
+  color: #2260ff;
+  font-size: 16px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 32px;
+  top: 124px;
+  width: 91px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.cancelled {
+  color: #2260ff;
+  font-size: 16px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 237px;
+  top: 124px;
+  width: 91px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle115 {
+  position: absolute;
+  left: 0;
+  top: 723px;
+  width: 360px;
+  height: 77px;
+  background-color: #fff;
+}
+.group71 {
+  position: absolute;
+  left: 31px;
+  top: 733px;
+  width: 298px;
+  height: 48px;
+  overflow: visible;
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}

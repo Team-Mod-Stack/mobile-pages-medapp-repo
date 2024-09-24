@@ -1,0 +1,390 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle124 {
+  position: absolute;
+  left: 30px;
+  top: 109px;
+  width: 300px;
+  height: 179px;
+  border-radius: 16px;
+  background-color: #2260ff;
+}
+.maskGroup {
+  position: absolute;
+  left: 30px;
+  top: 109px;
+  width: 300px;
+  height: 179px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #ecf1ff;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.addCard {
+  color: #2260ff;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 50%;
+  top: 60px;
+  width: 226px;
+  height: 23px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 63px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.cardHolderName {
+  color: #000;
+  font-size: 18px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 31px;
+  top: 315px;
+  width: 180px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.cardHolderName2 {
+  color: #fff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 57px;
+  top: 238px;
+  width: 103px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.expiryDate {
+  color: #fff;
+  font-size: 12px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 180px;
+  top: 238px;
+  width: 103px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.johnDoe {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 57px;
+  top: 253px;
+  width: 66px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+._428 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 180px;
+  top: 253px;
+  width: 52px;
+  height: 15px;
+  justify-content: center;
+  flex-direction: column;
+}
+.cardNumber {
+  color: #000;
+  font-size: 18px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 31px;
+  top: 412px;
+  width: 180px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.expiryDate2 {
+  color: #000;
+  font-size: 18px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 31px;
+  top: 512px;
+  width: 180px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle127 {
+  position: absolute;
+  left: 32px;
+  top: 688px;
+  width: 297px;
+  height: 45px;
+  border-radius: 30px;
+  background-color: #2260ff;
+}
+.saveCard {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 50%;
+  top: 704px;
+  width: 162px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  transform: translateX(-50%);
+}
+.cVV {
+  color: #000;
+  font-size: 18px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 201px;
+  top: 512px;
+  width: 108px;
+  height: 22px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle37 {
+  position: absolute;
+  left: 30px;
+  top: 344px;
+  width: 300px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.rectangle41 {
+  position: absolute;
+  left: 30px;
+  top: 443px;
+  width: 300px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.rectangle125 {
+  position: absolute;
+  left: 30px;
+  top: 539px;
+  width: 162px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+.rectangle126 {
+  position: absolute;
+  left: 200px;
+  top: 539px;
+  width: 130px;
+  height: 44px;
+  border-radius: 20px;
+  background-color: #ecf1ff;
+}
+._0000000 {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 57px;
+  top: 458px;
+  width: 190px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+._00000002 {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 57px;
+  top: 209px;
+  width: 190px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+._4282 {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 57px;
+  top: 554px;
+  width: 104px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+._000 {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 227px;
+  top: 554px;
+  width: 86px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.johnDoe2 {
+  color: #809cff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 57px;
+  top: 360px;
+  width: 141px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector4 {
+  position: absolute;
+  left: 285px;
+  top: 240px;
+  width: 28px;
+  height: 24px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: 265px;
+  top: 124px;
+  width: 47.5px;
+  height: 10.8px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}

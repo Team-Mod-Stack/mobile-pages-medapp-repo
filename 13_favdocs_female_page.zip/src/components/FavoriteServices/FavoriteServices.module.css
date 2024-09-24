@@ -1,0 +1,650 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 30px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle38 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 360px;
+  height: 28px;
+  background-color: #e2eaffa8;
+}
+._164 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 27px;
+  top: 9px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 273px;
+  top: 9px;
+  width: 13px;
+  height: 11px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 291px;
+  top: 11px;
+  width: 15px;
+  height: 8px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group12 {
+  position: absolute;
+  left: 312px;
+  top: 11px;
+  width: 17px;
+  height: 9px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle33 {
+  position: absolute;
+  left: 31px;
+  top: 733px;
+  width: 298px;
+  height: 48px;
+  border-radius: 24px;
+  background-color: #2260ff;
+}
+.group49 {
+  position: absolute;
+  left: 58px;
+  top: 746px;
+  width: 243px;
+  height: 23px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.favorite {
+  color: #2260ff;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 122px;
+  top: 63px;
+  width: 121px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector3 {
+  position: absolute;
+  left: 30px;
+  top: 63px;
+  width: 8px;
+  height: 14px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle94 {
+  position: absolute;
+  left: 184px;
+  top: 154px;
+  width: 146px;
+  height: 41px;
+  border-radius: 20px;
+  background-color: #2260ff;
+}
+.rectangle97 {
+  position: absolute;
+  left: 30px;
+  top: 154px;
+  width: 143px;
+  height: 41px;
+  border-radius: 20px;
+  background-color: #cad6ff;
+}
+.services {
+  color: #fff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 203px;
+  top: 166px;
+  width: 108px;
+  height: 18px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.doctors {
+  color: #2260ff;
+  font-size: 20px;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 59px;
+  top: 166px;
+  width: 86px;
+  height: 18px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle101 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - 167px);
+  width: 300px;
+  height: 40px;
+  border-radius: 21px;
+  background-color: #2260ff;
+  transform: translate(-50%, -50%);
+}
+.rectangle104 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - -38px);
+  width: 300px;
+  height: 40px;
+  border-radius: 21px;
+  background-color: #2260ff;
+  transform: translate(-50%, -50%);
+}
+.rectangle105 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - -101px);
+  width: 300px;
+  height: 40px;
+  border-radius: 21px;
+  background-color: #2260ff;
+  transform: translate(-50%, -50%);
+}
+.rectangle106 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - -164px);
+  width: 300px;
+  height: 40px;
+  border-radius: 21px;
+  background-color: #2260ff;
+  transform: translate(-50%, -50%);
+}
+.rectangle107 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - -227px);
+  width: 300px;
+  height: 40px;
+  border-radius: 21px;
+  background-color: #2260ff;
+  transform: translate(-50%, -50%);
+}
+.rectangle103 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - 20px);
+  width: 300px;
+  height: 40px;
+  border-radius: 21px;
+  background-color: #cad6ff;
+  transform: translate(-50%, -50%);
+}
+.rectangle102 {
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - 90.5px);
+  width: 300px;
+  height: 87px;
+  border-radius: 18px;
+  background-color: #cad6ff;
+  transform: translate(-50%, -50%);
+}
+.dermatoEndocrinology {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 227px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.cosmeticBioengineering {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 432px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.dermatoGenetics {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 495px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.solarDermatology {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 558px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.dermatoEndocrinology2 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 621px;
+  width: 184px;
+  height: 12px;
+  flex-direction: column;
+}
+.lookingDoctors {
+  color: #2260ff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 101px;
+  top: 373px;
+  width: 161px;
+  height: 12px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.vector158Stroke {
+  position: absolute;
+  left: 46px;
+  top: 227px;
+  width: 16px;
+  height: 14px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vector158Stroke2 {
+  position: absolute;
+  left: 46px;
+  top: 432px;
+  width: 16px;
+  height: 14px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.vector158Stroke3 {
+  position: absolute;
+  left: 46px;
+  top: 495px;
+  width: 16px;
+  height: 14px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.vector158Stroke4 {
+  position: absolute;
+  left: 46px;
+  top: 558px;
+  width: 16px;
+  height: 14px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.vector158Stroke5 {
+  position: absolute;
+  left: 46px;
+  top: 621px;
+  width: 16px;
+  height: 14px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.loremIpsumDolorSitAmetConsecte {
+  color: #000;
+  font-size: 13px;
+  font-weight: 200;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 46px;
+  top: 272px;
+  width: 270px;
+  height: 75px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.ellipse37 {
+  position: absolute;
+  left: 300px;
+  top: 221px;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse38 {
+  position: absolute;
+  left: 300px;
+  top: 426px;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse39 {
+  position: absolute;
+  left: 300px;
+  top: 489px;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse40 {
+  position: absolute;
+  left: 300px;
+  top: 552px;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse41 {
+  position: absolute;
+  left: 300px;
+  top: 615px;
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.vector4 {
+  position: absolute;
+  left: 305px;
+  top: 230px;
+  width: 14px;
+  height: 8px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.vector5 {
+  position: absolute;
+  left: 305px;
+  top: 435px;
+  width: 14px;
+  height: 8px;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.vector6 {
+  position: absolute;
+  left: 305px;
+  top: 498px;
+  width: 14px;
+  height: 8px;
+  overflow: visible;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.vector7 {
+  position: absolute;
+  left: 305px;
+  top: 561px;
+  width: 14px;
+  height: 8px;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.vector8 {
+  position: absolute;
+  left: 305px;
+  top: 624px;
+  width: 14px;
+  height: 8px;
+  overflow: visible;
+}
+.icon20 {
+  width: 100%;
+  height: 100%;
+}
+.sortBy {
+  color: #070707;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 30px;
+  top: 103px;
+  width: 38px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle80 {
+  position: absolute;
+  left: 69px;
+  top: 98px;
+  width: 47px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle116 {
+  position: absolute;
+  left: 119px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle117 {
+  position: absolute;
+  left: 144px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #2260ff;
+}
+.rectangle118 {
+  position: absolute;
+  left: 169px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.rectangle119 {
+  position: absolute;
+  left: 194px;
+  top: 98px;
+  width: 22px;
+  height: 21px;
+  border-radius: 13px;
+  background-color: #cad6ff;
+}
+.aZ {
+  color: #2260ff;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: League Spartan, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 78px;
+  top: 103px;
+  width: 30px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}
+.vector158Stroke6 {
+  position: absolute;
+  left: 150px;
+  top: 105px;
+  width: 10px;
+  height: 9px;
+  overflow: visible;
+}
+.icon21 {
+  width: 100%;
+  height: 100%;
+}
+.group18 {
+  position: absolute;
+  left: 125px;
+  top: 104px;
+  width: 10px;
+  height: 10px;
+  overflow: visible;
+}
+.icon22 {
+  width: 100%;
+  height: 100%;
+}
+.group139 {
+  position: absolute;
+  left: 177px;
+  top: 103.625px;
+  width: 6px;
+  height: 9.75px;
+  overflow: visible;
+}
+.icon23 {
+  width: 100%;
+  height: 100%;
+}
+.group140 {
+  position: absolute;
+  left: 200px;
+  top: 102px;
+  width: 9.9963px;
+  height: 11.3587px;
+  overflow: visible;
+}
+.icon24 {
+  width: 100%;
+  height: 100%;
+}
+.group170 {
+  position: absolute;
+  left: 281px;
+  top: 59px;
+  width: 47.2776px;
+  height: 21.2776px;
+  overflow: visible;
+}
+.icon25 {
+  width: 100%;
+  height: 100%;
+}
